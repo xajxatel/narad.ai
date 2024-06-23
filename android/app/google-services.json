@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238067558941",
+    "project_id": "naradamuni",
+    "storage_bucket": "naradamuni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238067558941:android:4a5dc7d27b20912fb434f4",
+        "android_client_info": {
+          "package_name": "com.xajxatel.naradamuni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAetthJ-ntFuYLWekXJDjOXxeyT_IwFoZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
