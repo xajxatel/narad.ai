@@ -1,7 +1,7 @@
-# Narada.ai
+# Narad.ai
 
 ## Overview
-Narada.ai is an engaging app designed for enthusiasts of Hindu mythology and followers of Hinduism. The app leverages persona patterns to train a chatbot to mimic Narad Muni, the revered sage known for his wisdom and playful nature in Hindu scriptures. With Narada.ai, users can delve into the rich tapestry of Hindu mythology, exploring sagas, powers, and origins of various gods, and enjoy listening to unheard and mysterious tales, all through an interactive and entertaining interface.
+Narad.ai is an engaging app designed for enthusiasts of Hindu mythology and followers of Hinduism. The app leverages persona patterns to train a chatbot to mimic Narad Muni, the revered sage known for his wisdom and playful nature in Hindu scriptures. With Narada.ai, users can delve into the rich tapestry of Hindu mythology, exploring sagas, powers, and origins of various gods, and enjoy listening to unheard and mysterious tales, all through an interactive and entertaining interface.
 
 <div align="center">
   <img src="https://github.com/xajxatel/narad.ai/assets/137952206/771d5905-2d43-49e4-8247-7af6b3aa2aa2" alt="narada_muni_profile" />
