@@ -14,9 +14,9 @@ Narad.ai is an engaging app designed for enthusiasts of Hindu mythology and foll
 - **Rich User Experience**: Enjoy a visually appealing and user-friendly interface built with Flutter.
 
 <div align="center">
-  <img src="https://github.com/xajxatel/narad.ai/assets/137952206/6748dcf3-332d-4ba3-8bee-709993bfc161" alt="Screenshot_20240624-040740" width="30%" />
-  <img src="https://github.com/xajxatel/narad.ai/assets/137952206/a40503b2-a28e-4b81-af67-736242f7dfaf" alt="Screenshot_20240624-040644" width="30%" />
-  <img src="https://github.com/xajxatel/narad.ai/assets/137952206/e7bd750f-0009-46fd-9a6c-0ecc72bf5aba" alt="Screenshot_20240624-040818" width="30%" />
+  <img src="https://github.com/xajxatel/narad.ai/assets/137952206/a40503b2-a28e-4b81-af67-736242f7dfaf" alt="Screenshot_20240624-040644" width="30%" style="margin: 0 10px;" />
+  <img src="https://github.com/xajxatel/narad.ai/assets/137952206/6748dcf3-332d-4ba3-8bee-709993bfc161" alt="Screenshot_20240624-040740" width="30%" style="margin: 0 10px;" />
+  <img src="https://github.com/xajxatel/narad.ai/assets/137952206/e7bd750f-0009-46fd-9a6c-0ecc72bf5aba" alt="Screenshot_20240624-040818" width="30%" style="margin: 0 10px;" />
 </div>
 
 ## Technologies Used
