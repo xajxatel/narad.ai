@@ -19,6 +19,9 @@ Narad.ai is an engaging app designed for enthusiasts of Hindu mythology and foll
   <img src="https://github.com/xajxatel/narad.ai/assets/137952206/e7bd750f-0009-46fd-9a6c-0ecc72bf5aba" alt="Screenshot_20240624-040818" width="30%" style="margin: 0 40px;" />
 </div>
 
+![narad_gif](https://github.com/xajxatel/narad.ai/assets/137952206/143c33bc-4f48-48d3-81d4-da7f684bbeb3)
+
+
 ## Technologies Used
 - **Flutter**: For building a beautiful and responsive cross-platform mobile application.
 - **Google Gemini API**: To generate insightful and captivating content about Hindu gods.
