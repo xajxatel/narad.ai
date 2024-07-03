@@ -19,12 +19,10 @@ Narad.ai is an engaging app designed for enthusiasts of Hindu mythology and foll
   <img src="https://github.com/xajxatel/narad.ai/assets/137952206/e7bd750f-0009-46fd-9a6c-0ecc72bf5aba" alt="Screenshot_20240624-040818" width="30%" style="margin: 0 40px;" />
 </div>
 
-<div align="center">
-  <video width="320" height="240" controls>
-    <source src="https://github.com/xajxatel/narad.ai/assets/137952206/24a9baf8-a2a2-4979-8add-81caa14cfa74" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+
+
+https://github.com/xajxatel/narad.ai/assets/137952206/dc7d8cc9-5df9-48d4-9b67-5e9d3cc5380a
 
 ## Technologies Used
 - **Flutter**: For building a beautiful and responsive cross-platform mobile application.
