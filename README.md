@@ -21,7 +21,7 @@ Narad.ai is an engaging app designed for enthusiasts of Hindu mythology and foll
 
 <div align="center">
   <video width="320" height="240" controls>
-    <source src="https://github.com/xajxatel/narad.ai/assets/137952206/24a9baf8-a2a2-4979-8add-81caa14cfa74" type="video/mp4">
+    https://github.com/xajxatel/narad.ai/assets/137952206/24a9baf8-a2a2-4979-8add-81caa14cfa74
     Your browser does not support the video tag.
   </video>
 </div>
